@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anilaluruintuitivecloud
-- 🏡💻 I work at Intuitive.Cloud https://www.intuitive.cloud/
+- 🏡💻 I work at [Intuitive.Cloud] (https://www.intuitive.cloud/)
 - 👀 I’m interested in Tech, Cloud, AI/ML, Auto and Space.
 
 <!---
