@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @anilaluruintuitivecloud
 - 🏡💻 I work at [Intuitive.Cloud] (https://www.intuitive.cloud/)
+- [This is an external link to genome.gov] (https://www.genome.gov/)
 - 👀 I’m interested in Tech, Cloud, AI/ML, Auto and Space.
 
 <!---
