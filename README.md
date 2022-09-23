@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilaluru
 - 🏡💻 I work at [Intuitive.Cloud](https://www.intuitive.cloud/)
-- 👀 I’m interested in Tech, Cloud, AI/ML, Auto and Space.
+- 👀 I’m interested in  Auto, Astronomy, Cloud, Data and Tech.
 
 <!---
 anilaluruintuitivecloud/anilaluruintuitivecloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
